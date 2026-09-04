@@ -1,0 +1,6 @@
+{
+  "name": "LabelGuard",
+  "description": "AI-powered product packaging label compliance checker with OCR extraction, regulatory rule validation, violation reports, and audit dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
